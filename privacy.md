@@ -1,3 +1,7 @@
+---
+permalink: /privacy
+---
+
 # 개인정보처리방침 / Privacy Policy
 
 이 문서는 고요서랍 수면 사운드 Sleep Sounds 채널 운영자가 직접 사용하는 영상 업로드 도구에 적용됩니다.
